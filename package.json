@@ -1,0 +1,12 @@
+{
+  "name": "nrt1019",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "domaci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jovana Boskovic",
+  "license": "ISC"
+}
